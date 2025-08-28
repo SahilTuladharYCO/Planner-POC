@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Hello! How can I assist you today?",
+    "sender": "agent"
+  },
+  {
+    "text": "Hi! I want to know my account balance. I want to know my account balance.I want to know my account balance.I want to know my account balance.I want to know my account balance.I want to know my account balance.I want to know my account balance.I want to know my account balance.  ",
+    "sender": "agent"
+  },
+  {
+    "text": "Sure, can you provide your account number?",
+    "sender": "agent"
+  },
+  {
+    "text": "Yes, it is 123456789.",
+    "sender": "agent"
+  },
+  {
+    "text": "Thank you! Your current balance is $2,450.",
+    "sender": "agent"
+  },
+  {
+    "text": "Great, thanks!",
+    "sender": "agent"
+  },
+  {
+    "text": "Great, s!",
+    "sender": "agent"
+  }
+]
